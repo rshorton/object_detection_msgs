@@ -3,5 +3,9 @@ float32 x
 float32 y
 float32 z
 uint32 c
+float32 x_min
+float32 x_max
+float32 y_min
+float32 y_max
 string name
 float32 confidence
