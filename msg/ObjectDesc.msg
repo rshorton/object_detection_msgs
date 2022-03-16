@@ -10,3 +10,4 @@ float32 y_max
 string name
 float32 confidence
 string track_status
+string frame
